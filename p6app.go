@@ -1,1 +1,1 @@
-// Empty go file
+package p6app
