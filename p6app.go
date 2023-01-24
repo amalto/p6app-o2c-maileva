@@ -1,1 +1,1 @@
-package p6app
+package main
